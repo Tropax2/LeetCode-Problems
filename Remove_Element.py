@@ -9,5 +9,4 @@ class Solution:
                 self.k += 1
 
         return self.k, self.nums[:self.k]
-s = Solution()
-print(s.removeElement([0,1,2,2,3,0,4,2], 2))
+ 
